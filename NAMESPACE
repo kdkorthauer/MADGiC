@@ -1,0 +1,4 @@
+export(get.post.probs)
+import(abind)
+import(biomaRt)
+import(data.table)

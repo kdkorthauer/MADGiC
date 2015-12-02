@@ -1,0 +1,20 @@
+Package: MADGiC
+Type: Package
+Title: Fits an empirical Bayesian hierarchical model to obtain
+        posterior probabilities that each gene is a driver.
+Description: The model accounts for (1) frequency of mutation compared to a
+    sophisticated background model that accounts for gene-specific factors in
+    addition to mutation type and nucleotide context, (2) predicted
+    functional impact (in the form of SIFT scores) of each specific change,
+    and (3) oncogenic patterns in the position of mutations that have been
+    deposited into the COSMIC (Catalogue of Somatic Mutations in Cancer)
+    database.
+Depends: R (>= 2.15.2), abind, biomaRt, data.table, rtracklayer,
+        splines, stats
+Version: 0.3
+Author: Keegan Korthauer
+Maintainer: Keegan Korthauer <kdkorthauer@wisc.edu>
+License: GPL-3
+LazyData: false
+Collate: 'MADGiC.R'
+Packaged: 2015-01-19 23:58:33 UTC; korthaue
