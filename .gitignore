@@ -1,4 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+*.RData
+inst/data/*
 MADGiC_0.3.tar.gz
