@@ -21,6 +21,6 @@ database. Example data from the The Cancer Genome Atlas (TCGA) project ovarian c
 The latest version of the MADGiC R package has been updated to accommodate MAF files annotated with NCBI build 37 as well as 
 user-specified expression and replication timing data.  See 'get.post.probs' function for details.
 
-Example data files (example maf, example gene expression and replication data file, and annotation files can be found <A HREF="https://www.dropbox.com/sh/0le52uny9pc3yhr/AAApNOk4zdp-dx-nvrYu6vwoa?dl=0>here</A>.
+Example data files (example maf, example gene expression and replication data file, and annotation files can be found <A HREF="https://www.dropbox.com/sh/0le52uny9pc3yhr/AAApNOk4zdp-dx-nvrYu6vwoa?dl=0">here</A>.
 
 Earlier versions of the source code can be found <A HREF="https://www.biostat.wisc.edu/~kendzior/MADGiC">here</A>.</p>
